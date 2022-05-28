@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuel-de-Acuna
 - 👀 I’m interested in Excel, DAX and Power BI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, JSCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
